@@ -91,9 +91,23 @@ Segundo, vamos a digitar el comienzo de nuestra iteracion
 
 ![git](/img/Paso2.png)
 
+Ahora añadiremos los acrhivos que queremos subir, con el nombre del archivo o si queremos subir todo el contenido de nuestra carpeta. En nuestro caso vamos a subir el archivo de nuestra carpeta 
+
+![git](/img/Paso3.png)
+
+Siguiendo la ruta para poder subir nuestro repositorio, git nos pide hacer un commit siempre que hagamos algo nuevo en el repositorio 
+
+![git](/img/Paso4.png)
+
+Ya para hacer el cargue a nuestro repositorio en GitHub, solo tenemos que agregar un comando para que sepa dónde se debe subir 
+
+![git](/img/Paso5.png)
+
+Y por ultimo hacemos el push que por fin nos mostrara nuestro repositorio con todos los archivos de nuestro equipo local
+
+![git](/img/Paso6.png)
 
 
-
-
-
-
+``` 
+Por ultimo, vamos a tener en cuenta una información muy importante que nos servirá en un futuro y es poder cambiar el nombre a la rama que estamos usando "git branch -M main"
+```
